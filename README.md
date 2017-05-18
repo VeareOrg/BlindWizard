@@ -1,2 +1,2 @@
-# BlindWizard
-BlindWizard Webpage
+# BlindWizard.veare.org
+
