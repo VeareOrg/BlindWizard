@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Set for texts used in 'index.php', and other pages --> 
+	<set>
+		<translation>
+			<base>Language: </base>
+			<local>Język: </local>
+		</translation>
+		<translation>
+			<base>Factsheet</base>
+			<local>Fakty</local>
+		</translation>
+		<translation>
+			<base>Description</base>
+			<local>Opis</local>
+		</translation>
+		<translation>
+			<base>History</base>
+			<local>Historia</local>
+		</translation>
+		<translation>
+			<base>Projects</base>
+			<local>Projekty</local>
+		</translation>
+		<translation>
+			<base>Videos</base>
+			<local>Wideo</local>
+		</translation>
+		<translation>
+			<base>Images</base>
+			<local>Grafiki</local>
+		</translation>
+		<translation>
+			<base>Logo &amp; Icon</base>
+			<local>Logo &amp; Ikona</local>
+		</translation>
+		<translation>
+			<base>Awards &amp; Recognition</base>
+			<local>Nagrody &amp; Rozpoznianie</local>
+		</translation>
+		<translation>
+			<base>Selected Articles</base>
+			<local>Wybrane Artykuły</local>
+		</translation>
+		<translation>
+			<base>Additional Links</base>
+			<local>Dodatkowe Odnośniki</local>
+		</translation>
+		<translation>
+			<base>Team</base>
+			<local>Zespół</local>
+		</translation>
+		<translation>
+			<base>Contact</base>
+			<local>Kontakt</local>
+		</translation>
+		<translation>
+			<base>Developer:</base>
+			<local>Twórca:</local>
+		</translation>
+		<translation>
+			<base>Based in %s</base>
+			<local>Z siedzibą w %s</local>
+		</translation>
+		<translation>
+			<base>Founding date:</base>
+			<local>Data utworzenia projektu:</local>
+		</translation>
+		<translation>
+			<base>Website:</base>
+			<local>Strona internetowa:</local>
+		</translation>
+		<translation>
+			<base>Press / Business Contact:</base>
+			<local>Kontakt Prasowy/Biznesowy:</local>
+		</translation>
+		<translation>
+			<base>Social:</base>
+			<local>Społeczności:</local>
+		</translation>
+		<translation>
+			<base>Releases:</base>
+			<local>Wydanie:</local>
+		</translation>
+		<translation>
+			<base>Address:</base>
+			<local>Adres:</local>
+		</translation>
+		<translation>
+			<base>Phone:</base>
+			<local>Telefon:</local>
+		</translation>
+		<translation>
+			<base><![CDATA[There are currently no trailers available for %s. Check back later for more or <a href="#contact">contact us</a> for specific requests!]]></base>
+			<local><![CDATA[Trailery obecnie niedostępne %s. Check back later for more or <a href="#contact">contact us</a> for specific requests!]]></local>
+		</translation>
+		<translation>
+			<base><![CDATA[There are far more images available for %s, but these are the ones we felt would be most useful to you. If you have specific requests, please do <a href="#contact">contact us</a>!]]></base>
+			<local><![CDATA[Jest więcej obrazów dostępnych dla %s, ale uznaliśmy, że te będą najistotniejsze. Jeśli masz specjalne potrzeby <a href="#contact">skontaktuj się z nami</a>!]]></local>
+		</translation>
+		<translation>
+			<base>download logo files as .zip (%s)</base>
+			<local>Pobierz logo jako .zip (%s)</local>
+		</translation>
+		<translation>
+			<base><![CDATA[There are currently no logos or icons available for %s. Check back later for more or <a href="#contact">contact us</a> for specific requests!]]></base>
+			<local><![CDATA[Obecnie logo i ikony nie są dostępne %s. Sprawdź później albo <a href="#contact">skontaktuj się z nami</a>!]]></local>
+		</translation>
+		<translation>
+			<base>Team &amp; Repeating Collaborators</base>
+			<local>Zespół &amp; Współpraca</local>
+		</translation>
+		<translation>
+			<base>Contact</base>
+			<local>Contact</local>
+		</translation>
+	</set>
+	<!-- Set for additional texts used in 'sheet.php', the '_template/index.php' file --> 
+	<set>
+		<translation>
+			<base>Request Press Copy</base>
+			<local>Zamów darmową kopię prasową</local>
+		</translation>
+		<translation>
+			<base>Monetization Permission</base>
+			<local>Zezwolenie na monetyzację</local>
+		</translation>
+		<translation>
+			<base>About %s</base>
+			<local>O %s</local>
+		</translation>
+		<translation>
+			<base>Release date:</base>
+			<local>Data wydania:</local>
+		</translation>
+		<translation>
+			<base>Platforms:</base>
+			<local>Platformy:</local>
+		</translation>
+		<translation>
+			<base>Regular Price:</base>
+			<local>Standardowa Cena:</local>
+		</translation>
+		<translation>
+			<base>Features</base>
+			<local>Features</local>
+		</translation>
+		<translation>
+			<base>download all screenshots &amp; photos as .zip (%s)</base>
+			<local>Pobierz zrzuty ekranu &amp; zdjęcia jako .zip (%s)</local>
+		</translation>
+		<translation>
+			<base><![CDATA[There are currently no screenshots available for %s. Check back later for more or <a href="#contact">contact us</a> for specific requests!]]></base>
+			<local><![CDATA[There are currently no screenshots available for %s. Check back later for more or <a href="#contact">contact us</a> for specific requests!]]></local>
+		</translation>
+		<translation>
+			<base>Please fill in your e-mail address below and we'll get back to you as soon as a press copy is available for you.</base>
+			<local>Wpisz swój adres e-mail poniżej a skontaktujemy się z Tobą kiedy kopia prasowa będzie dla Ciebie dostępna</local>
+		</translation>
+		<translation>
+			<base>me@website.com</base>
+			<local>MojEmail@strona.pl</local>
+		</translation>			
+		<translation>
+			<base>, writing for </base>
+			<local>, publikujący dla </local>
+		</translation>			
+		<translation>
+			<base>company name</base>
+			<local>nazwa firmy</local>
+		</translation>			
+		<translation>
+			<base> would like to </base>
+			<local> chciał(a)by </local>
+		</translation>
+		<translation>
+			<base>request a press copy</base>
+			<local>dostać prasową kopię</local>
+		</translation>
+		<translation>
+			<base><![CDATA[Alternatively, you can always request a press copy by <a href="#contact">sending us a quick email</a>.]]></base>
+			<local><![CDATA[Alternatywnie, możesz pobrać prasową kopię <a href="#contact">wysyłając nam e-mail</a>.]]></local>
+		</translation>	
+		<translation>
+			<base><![CDATA[Thanks for the request. We'll be in touch as soon as possible. In the meanwhile, feel free to <a href="#contact">follow up with any questions or requests you might have!</a>]]></base>
+			<local><![CDATA[Dziękujemy za wiadomość. Odpowiemy najszybciej jak to możliwe. W międzyczasie, możesz <a href="#contact">zadać jakiekolwiek pytania!</a>]]></local>
+		</translation>
+		<translation>
+			<base><![CDATA[We could not validate your email address. Please try contacting us using <a href="#contact">one of the options listed here</a>.]]></base>
+			<local><![CDATA[Nie mogliśmy zweryfikować Twojego adresu e-mail. Proszę skontaktuj się za pomocą <a href="#contact">naszych opcji kontaktowych</a>.]]></local>
+		</translation>
+		<translation>
+			<base><![CDATA[Please fill in all the fields or try contacting us using <a href="#contact">one of the options listed here</a>.]]></base>
+			<local><![CDATA[Wypełnij wszystkie pola lub użyj jednej z <a href="#contact">opcji podanych pod tym linkiem.</a>.]]></local>
+		</translation>
+		<translation>
+			<base><![CDATA[We failed to send the email. Please try contacting us using <a href="#contact">one of the options listed here</a>.]]></base>
+			<local><![CDATA[Nie udało się wysłać e-maila. Proszę skontaktuj się z nami używając <a href="#contact">jednej z opcji wylistowanych tutaj</a>.]]></local>
+		</translation>		
+		<translation>
+			<base>Boilerplate</base>
+			<local>Gotowiec</local>
+		</translation>
+		<translation>
+			<base>More information</base>
+			<local>Więcej Informacji</local>
+		</translation>
+		<translation>
+			<base><![CDATA[More information on %s, our logo & relevant media are available <a href="%s">here</a>.]]></base>
+			<local><![CDATA[Więcej informacji %s, logo & istotne media dostępne <a href="%s">tutaj</a>.]]></local>
+		</translation>
+		<translation>
+			<base>%s does currently not allow for the contents of %s to be published through video broadcasting services.</base>
+			<local>%s obecnie nie zezwala na transmitowanie %s.</local>
+		</translation>
+		<translation>
+			<base>%s does allow the contents of this game to be published through video broadcasting services only with direct written permission from %s. Check at the bottom of this page for contact information.</base>
+			<local>%s zezwala na publikowanie treści gry poprzez transmisję wideo tylko za zezwoleniem %s. Sprawdź sekcję kontakt.</local>
+		</translation>
+		<translation>
+			<base>%s allows for the contents of %s to be published through video broadcasting services for non-commercial purposes only. Monetization of any video created containing assets from %s is not allowed.</base>
+			<local>%s zezwala na publikowanie treści gry %s poprzez transmisję wideo niekomercyjnie. Monetyzacja materiałów %s nie jest dozwolona.</local>
+		</translation>
+		<translation>
+			<base>%s allows for the contents of %s to be published through video broadcasting services for any commercial or non-commercial purposes. Monetization of videos created containing assets from %s is legally &amp; explicitly allowed by %s.</base>
+			<local>%s zezwala na publikowanie materiałów o %s komercyjnie oraz niekomercyjnie. Monetyzacja wideo %s jest legalnie &amp; dozwolona przez %s.</local>
+		</translation>
+		<translation>
+			<base><![CDATA[This permission can be found in writing at <a href="%s">%s</a>.]]></base>
+			<local><![CDATA[This permission can be found in writing at <a href="%s">%s</a>.]]></local>
+		</translation>
+		<translation>
+			<base>%s Credits</base>
+			<local>%s Credits</local>
+		</translation>
+		<translation>
+			<base>press kit</base>
+			<local>zestaw prasowy</local>
+		</translation>
+
+		
+	</set>	
+</language>

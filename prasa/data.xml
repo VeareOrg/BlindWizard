@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Veare</title>
+	<founding-date>September 3, 2016</founding-date>
+	<website>http://www.blindwizard.veare.org/</website>
+	<based-in>Poznań, Poland</based-in>
+	
+	<press-contact>office@veare.org</press-contact>
+	<phone>+48 691 424 329</phone>
+	<address>
+		<line>Polska</line>
+		<line>Dobrodzieńska 11/1</line>
+		<line>60-162 Poznań</line>
+	</address>
+
+<socials>
+		<social>
+			<name>https://twitter.com/veareofficial</name>
+			<link>https://twitter.com/veareofficial</link>
+		</social>
+		<social>
+			<name>https://fb.me/veareofficial</name>
+			<link>https://fb.me/veareofficial</link>
+		</social>
+		<!-- <social> -->
+			<!-- <name>Skype</name> -->
+			<!-- <link>callto:tmp</link> -->
+		<!-- </social> -->
+	</socials>
+
+	<description>	
+		The Blind Wizard of Antreia jest grą z gatunku sound-novel (Jest swego rodzaju interaktywnym audiobookiem).
+		Gra jest całkowicie oparta na dźwięku i nie zawiera żadnych grafik. W grze poznajemy historię niewidomego chłopca,
+		który podczas swej podróży odkrywa swoje niezwykłe magiczne umiejętności. Na jego drodze czychają na niego różne niebezpieczeństwa,
+		którym musi stawić czoła rozwiązując dźwiękowe zadania. Musi omijać przeszkody i dojść do określonych fabularnie miejsc.
+
+		Gracz powinien posiadać słuchawki, aby móc zorientować się w świecie gry słuchajac przestrzennych dźwięków.
+		Gracz używa klawiatury, pada, lub innego urządzenia aby sterować postacią w grze. Może obracać się oraz poruszać,
+		a z czasem, gdy jego postać zdobędzie magiczne umiejętności, także używać magicznych mocy aby przeprawić się
+		w kolejne części krainy Antreii.  
+	</description>
+		
+	<histories>
+		<history>
+			<header>Początek</header>
+			<text>Projekt rozpoczął się pod roboczą nazwą "The Blindness" podczas game jamu "PGG Jam All Play: Accesibility",
+			dnia 3. grudnia 2016. Był to zwycięski projekt tego wydarzenia. W tym czasie fabuła projektu była zupełnie inna,
+			a wszystko w projekcie było w języku polskim.</text>
+		</history>
+		<history>
+			<header>Następnie</header>
+			<text>Wzięliśmy udział w Imagine Cup, ogólnoświatowych zawodach organizowanych przez firmę Microsoft.
+			Do zawodów przygotowaliśmy nową fabułę, osadzając grę w świecie fantasy.
+			Nagraliśmy dialogi, narrację, efekty dźwiękowe, zagadki dźwiękowe i rozpoczęliśmy pracę nad projektem.</text>
+		</history>
+		<history>
+			<header>A teraz</header>
+			<text>Produkcja gry trwa, a wydanie planowane jest na przyszły rok kalendarzowy.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>SUKikObrRMI</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Zwycięzca All Play Accesibility PGG Jam.</description>
+			<info>Poznań, 3. grudnia 2016.</info>
+		</award>
+		<award>
+			<description>Zwycięzca Imagine Cup Polska 2017 w kategorii Games</description>
+			<info>Warszawa, 27. kwietnia 2017</info>
+		</award>
+	</awards>
+	
+<!-- 	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes> -->
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+<!-- 	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals> -->
+	
+	<credits>
+		<credit>
+			<person>Mateusz Pusty</person>
+				<website>www.twitter.com/mateuszpusty</website>
+			<role>Design gry, Biznes, Programowanie</role>
+		</credit>
+		<credit>
+			<person>Artur Pereć</person>
+				<website>www.twitter.com/arturgperec</website>
+			<role>Producent</role>
+		</credit>
+		<credit>
+			<person>Tymon Oziemblewski</person>
+				<website>www.twitter.com/Tymski</website>
+			<role>Udźwiękowienie</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Veare</name>
+			<mail>hello@veare.org</mail>
+		</contact>
+		<contact>
+			<name>Veare Web Page</name>
+			<link>veare.org</link>
+		</contact>
+	</contacts>
+</game>
