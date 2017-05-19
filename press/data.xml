@@ -44,8 +44,8 @@
 		
 	<trailers>
 		<trailer>
-			<name>Insert Trailer Here</name>
-			<youtube>7jQbITg0MSk</youtube>
+			<name>Audio Trailer</name>
+			<youtube>NnFquMxlAZk</youtube>
 		</trailer>
 <!-- 		<trailer>
 			<name>This one too</name>
@@ -118,6 +118,10 @@
 		<credit>
 			<person>Tymon Oziemblewski</person>
 			<role>Sound Design</role>
+		</credit>
+		<credit>
+			<person>Jakub Ryfa, CTSG, sonniss.com, freesound.org, freesfx.co.uk, zapsplat.com</person>
+			<role>Additional Sounds</role>
 		</credit>
 	</credits>
 	
