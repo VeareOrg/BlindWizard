@@ -265,10 +265,6 @@ echo '					<div class="uk-grid">
 								'. tl('Based in %s', COMPANY_BASED) .'
 							</p>
 							<p>
-								<strong>'. tl('Founding date:') .'</strong><br/>
-								'. COMPANY_DATE .'
-							</p>
-							<p>
 								<strong>'. tl('Website:') .'</strong><br/>
 								<a href="http://'. parseLink(COMPANY_WEBSITE) .'">'. parseLink(COMPANY_WEBSITE) .'</a>
 							</p>
@@ -317,10 +313,6 @@ if( count($address) > 0 )
 }
 
 echo'							</p> 
-							<p>
-								<strong>'. tl('Phone:') .'</strong><br/>
-								'. COMPANY_PHONE .'
-							</p>
 						</div>
 						<div class="uk-width-medium-4-6">
 							<h2 id="description">'. tl('Description') .'</h2>
