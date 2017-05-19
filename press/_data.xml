@@ -2,81 +2,70 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>Company Name</title>
-	<founding-date>September 1, 2010</founding-date>
-	<website>http://www.website.com/</website>
-	<based-in>Cityville, Metropolisland</based-in>
+
+	<title>Veare</title>
+	<website>http://veare.org/</website>
+	<based-in>Poznań, Poland</based-in>
 	
-	<press-contact>press-contact@company.com</press-contact>
-	<phone>+00 (1) 22 33 44 55 66</phone>
+	<press-contact>office@veare.org</press-contact>
 	<address>
-		<line>Address Line 1</line>
-		<line>Address Line 2</line>
-		<line>Address Line 3</line>
+		<line>Polska</line>
+		<line>Dobrodzieńska 11/1</line>
+		<line>60-162 Poznań</line>
 	</address>
 
 	<socials>
 		<social>
-			<name>twitter.com/MyCompanyName</name>
-			<link>twitter.com/MyCompanyName</link>
+			<name>twitter.com/VeareOfficial</name>
+			<link>twitter.com/VeareOfficial</link>
 		</social>
 		<social>
-			<name>facebook.com/MyCompanyName</name>
-			<link>facebook.com/MyCompanyName</link>
-		</social>
-		<social>
-			<name>Skype</name>
-			<link>callto:MySkypeName</link>
+			<name>facebook.com/veareofficial</name>
+			<link>facebook.com/veareofficial</link>
 		</social>
 	</socials>
 
 	<description>	
-		We're games studio and we make games. We're also capable of editing XML files.
+
+
+		The Blind Wizard Of Antreia is a Sound-Novel (It is kind of interactive audio-book). The game consists of sounds only, so it doesn't contain any graphics.
+		It is a story of a blind boy who discovers his magical powers. On his way there are many obstacles for him to overcome.	
+		Player faces sound riddles, moves around in a world full of sounds, discovers a story.
+
+
 	</description>
 		
 	<histories>
 		<history>
-			<header>Early history</header>
-			<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nisi dolor. Pellentesque vitae eros velit, quis venenatis orci. Phasellus elit urna, semper ut gravida et, porta non dui. Aliquam erat volutpat. Aenean porta volutpat imperdiet. Maecenas venenatis, tellus eget vehicula vulputate, augue erat elementum quam, tincidunt laoreet magna orci et mauris. Proin porttitor pharetra nisi, accumsan sollicitudin neque varius a. Aenean ut massa ipsum, id hendrerit lacus. Maecenas posuere egestas nunc at cursus. Etiam mollis libero vel eros pulvinar aliquam. Sed vitae turpis sed nibh venenatis dictum. Sed suscipit orci justo, at sagittis ante. Sed leo nisl, ultricies in fermentum id, aliquam id dolor. Ut laoreet, felis id posuere bibendum, arcu ipsum lacinia est, eu lobortis velit enim eget mi. In ullamcorper ullamcorper enim ut gravida. Vivamus rutrum lacus mollis risus malesuada iaculis.</text>
-		</history>
-		<history>
-			<header>After that</header>
-			<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan.</text>
+			<header>How it started?</header>
+			<text>During All Play Accessibility game jam Mathew created a game accessible for blind people, but we soon found out it's fun for most people.</text>
 		</history>
 	</histories>
 		
 	<trailers>
 		<trailer>
-			<name>This video is nice</name>
+			<name>Insert Trailer Here</name>
 			<youtube>7jQbITg0MSk</youtube>
 		</trailer>
-		<trailer>
+<!-- 		<trailer>
 			<name>This one too</name>
 			<youtube>0CevOaYrYDA</youtube>
 			<vimeo>12536488</vimeo>
-		</trailer>
+		</trailer> -->
 	</trailers>
 	
 	<awards>
 		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
+			<description>Winner in Imagine Cup Poland</description>
+			<info>Warsaw, May 2017</info>
 		</award>
 		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
+			<description>Winner in PGG Jam All Play: Accessibility</description>
+			<info>Poznań, December 2016</info>
 		</award>
 	</awards>
 	
-	<quotes>
+<!-- 	<quotes>
 		<quote>
 			<description>This is a rather insignificant quote by a highly important person.</description>
 			<name>Person Name</name>
@@ -101,54 +90,53 @@
 			<website>Angry Review</website>
 			<link>http://thispage.net/angrytube</link>
 		</quote>
-	</quotes>
+	</quotes> -->
 	
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
 	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
 																			 	ask (permission on case-per-case basis),
 																			 	non-commercial (no monetization allowed),
 																			 	monetize (full permission) -->	
-	<additionals>
+<!-- 	<additionals>
 		<additional>
 			<title>Company Link #1</title>
 			<description>This link is a link that might be useful. You can check it out at</description>
 			<link>http://somemusicsite.com/thislink</link>
 		</additional>
-	</additionals>
+	</additionals> -->
 	
 	<credits>
 		<credit>
-			<person>John Doe</person>
-			<role>Artist, Freelancer</role>
+			<person>Mateusz Pusty</person>
+			<website>https://twitter.com/mateuszpusty</website>
+			<role>Game Creator</role>
 		</credit>
 		<credit>
-			<person>Oliver Twist</person>
-			<website>www.olivertwist.com</website>
-			<role>Artist, Freelancer</role>
+			<person>Artur Pereć</person>
+			<role>Producer</role>
 		</credit>
 		<credit>
-			<person>Jane Doette</person>
-			<website>www.olivertwist.com</website>
-			<role>Music, Freelancer</role>
+			<person>Tymon Oziemblewski</person>
+			<role>Sound Design</role>
 		</credit>
 	</credits>
 	
 	<contacts>
 		<contact>
 			<name>Inquiries</name>
-			<mail>rami@vlambeer.com</mail>
+			<mail>office@veare.org</mail>
 		</contact>
 		<contact>
 			<name>Twitter</name>
-			<link>http://twitter.com/MyCompanyName</link>
+			<link>http://twitter.com/VeareOfficial</link>
 		</contact>
 		<contact>
 			<name>Facebook</name>
-			<link>http://facebook.com/MyCompanyName</link>
+			<link>http://facebook.com/VeareOfficial</link>
 		</contact>
 		<contact>
 			<name>Web</name>
-			<link>MyCompanyWebsite.com</link>
+			<link>Veare.org</link>
 		</contact>
 	</contacts>
 </game>
