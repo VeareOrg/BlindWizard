@@ -47,11 +47,6 @@
 			<name>Audio Trailer</name>
 			<youtube>NnFquMxlAZk</youtube>
 		</trailer>
-<!-- 		<trailer>
-			<name>This one too</name>
-			<youtube>0CevOaYrYDA</youtube>
-			<vimeo>12536488</vimeo>
-		</trailer> -->
 	</trailers>
 	
 	<awards>
@@ -64,46 +59,11 @@
 			<info>Poznań, December 2016</info>
 		</award>
 	</awards>
+
 	
-<!-- 	<quotes>
-		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
-		</quote>
-		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
-		</quote>
-		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
-		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
-		</quote>
-	</quotes> -->
-	
-	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
-	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
-																			 	ask (permission on case-per-case basis),
-																			 	non-commercial (no monetization allowed),
-																			 	monetize (full permission) -->	
-<!-- 	<additionals>
-		<additional>
-			<title>Company Link #1</title>
-			<description>This link is a link that might be useful. You can check it out at</description>
-			<link>http://somemusicsite.com/thislink</link>
-		</additional>
-	</additionals> -->
+	<press-can-request-copy>TRUE</press-can-request-copy> 
+	<monetization-permission>monetize</monetization-permission> 
+
 	
 	<credits>
 		<credit>
@@ -120,7 +80,7 @@
 			<role>Sound Design</role>
 		</credit>
 		<credit>
-			<person>Jakub Ryfa, CTSG, sonniss.com, freesound.org, freesfx.co.uk, zapsplat.com</person>
+			<person>Jakub Ryfa, CTSG, sonniss.com, freesound.org, zapsplat.com</person>
 			<role>Additional Sounds</role>
 		</credit>
 	</credits>

@@ -73,9 +73,9 @@ foreach( $xml->children() as $child )
 		case("title"):
 			define("COMPANY_TITLE", $child);
 			break;	
-		case("founding-date"):
-			define("COMPANY_DATE", $child);
-			break;
+		// case("founding-date"):
+		// 	define("COMPANY_DATE", $child);
+		// 	break;
 		case("website"):
 			define("COMPANY_WEBSITE", $child);
 			break;
@@ -106,9 +106,9 @@ foreach( $xml->children() as $child )
 				$i++;
 			}
 			break;	
-		case("phone"):
-			define("COMPANY_PHONE", $child);
-			break;
+		// case("phone"):
+		// 	define("COMPANY_PHONE", $child);
+		// 	break;
 		case("description"):
 			define("COMPANY_DESCRIPTION", $child);
 			break;
@@ -236,7 +236,6 @@ if (count(TranslateTool::getLanguages()) > 1) {
 echo '					<li><a href="#factsheet">'. tl('Factsheet') .'</a></li>
 						<li><a href="#description">'. tl('Description') .'</a></li>
 						<li><a href="#history">'. tl('History') .'</a></li>
-						<li><a href="#projects">'. tl('Projects') .'</a></li>
 						<li><a href="#trailers">'. tl('Videos') .'</a></li>
 						<li><a href="#images">'. tl('Images') .'</a></li>
 						<li><a href="#logo">'. tl('Logo & Icon') .'</a></li>';
@@ -341,8 +340,8 @@ for( $i = 0; $i < count($histories); $i++ )
 <p>'.$text.'</p>';
 }
 
-echo '							<h2 id="projects">'. tl('Projects') .'</h2>
-							<ul>';
+// echo '							<h2 id="projects">'. tl('Projects') .'</h2>
+// 							<ul>';
 
 if ($handle = opendir('.')) {
 	while (false !== ($entry = readdir($handle))) {
