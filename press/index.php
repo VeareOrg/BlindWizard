@@ -210,7 +210,7 @@ echo '<!DOCTYPE html>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
-		<title>'. COMPANY_TITLE .'</title>
+		<title>Blind Wizard\'s press kit</title>
 		<link href="http://cdnjs.cloudflare.com/ajax/libs/uikit/1.2.0/css/uikit.gradient.min.css" rel="stylesheet" type="text/css">
 		<link href="style.css" rel="stylesheet" type="text/css">
 	</head>
