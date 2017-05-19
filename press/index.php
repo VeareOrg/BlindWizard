@@ -287,9 +287,9 @@ for( $i = 0; $i < count($socials); $i++ )
 	echo( '<a href="http://'.parseLink($link).'">'.$name.'</a><br/>' );
 }
 
-echo '							</p>
-							<p>
-							<strong>'. tl('Releases:') .'</strong><br />';
+// echo '							</p>
+// 							<p>
+// 							<strong>'. tl('Releases:') .'</strong><br />';
 
 if ($handle = opendir('.')) {
 	while (false !== ($entry = readdir($handle))) {
