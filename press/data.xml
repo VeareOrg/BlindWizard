@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- example file containing base tags -->
 
 <game>	
@@ -7,7 +7,7 @@
 	<website>http://veare.org/</website>
 	<based-in>Poznań, Poland</based-in>
 	
-	<press-contact>office@veare.org</press-contact>
+	<press-contact>hello@veare.org</press-contact>
 	<address>
 		<line>Polska</line>
 		<line>Dobrodzieńska 11/1</line>
@@ -28,9 +28,9 @@
 	<description>	
 
 
-		The Blind Wizard Of Antreia is a Sound-Novel (It is kind of interactive audio-book). The game consists of sounds only, so it doesn't contain any graphics.
-		It is a story of a blind boy who discovers his magical powers. On his way there are many obstacles for him to overcome.	
-		Player faces sound riddles, moves around in a world full of sounds, discovers a story.
+		The Blind Wizard of Antreia is a Sound Novel type game. In short words – the game is an interactive audiobook wherein user is controlling his character 
+		by locating source of sound in 3D space and walking towards it. Additionally, he needs to resolve a lots of mind entertaining sound riddles on his way. 
+		This project is currently work in progress.
 
 
 	</description>
@@ -38,7 +38,12 @@
 	<histories>
 		<history>
 			<header>How it started?</header>
-			<text>During All Play Accessibility game jam Mathew created a game accessible for blind people, but we soon found out it's fun for most people.</text>
+			<text>The first prototype was created on PGG Jam: All Play - Accessibility in December 2016. Game Jam organised by Poznańska Gildia Graczy (Poznań Gamers Guild). During it Matthew (@mateuszpusty) has created 
+			      the prototype of a Sound Novel type game wherein the player had to walk through the corridors by following the sound. The game has been granted first place on this game jam by Jury. I</text>
+		</history>
+		<history>
+			<header>Imagine Cup</header>
+			<text>At the beggining of 2017 Mateusz had asked Tymon and Artur to help him in development and they've entered Microsoft's Imagine Cup contenst. The game walked through rapid changes. The old story was thrown away and design was redone. At the end of April the game has been granted first place at Imagine Cup Polish Finals. From now on it's in continous development.</text>
 		</history>
 	</histories>
 		
